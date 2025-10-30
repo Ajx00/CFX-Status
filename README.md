@@ -2,7 +2,7 @@
 
 This bot was originally developed for use with my own FiveM server and has since been adapted to support multiple Discord servers. Written in Python, this bot monitors the CFX.re status page (https://status.cfx.re/) for any changes in server status. It stores all settings in a local database file.
 
-
+Invite the Discord Bot: [Click here](https://discord.com/oauth2/authorize?client_id=1400414658535489566&permissions=2048&integration_type=0&scope=bot)
 
 ## Key features include:
 
